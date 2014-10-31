@@ -2,7 +2,7 @@
 
 [![Build](https://travis-ci.org/MathVDN/locomotive.png)](https://travis-ci.org/MathVDN/locomotive)
 [![Coverage](https://coveralls.io/repos/MathVDN/locomotive/badge.png)](https://coveralls.io/r/MathVDN/locomotive)
-[![Quality](https://codeclimate.com/github/MathVDN/locomotive.png)](https://codeclimate.com/github/MathVDN/locomotive)
+[![Quality](https://codeclimate.com/repos/54539464e30ba0648107c5be/badges/942a16fa67b776730c78/gpa.svg)](https://codeclimate.com/repos/54539464e30ba0648107c5be/feed)
 [![Dependencies](https://david-dm.org/MathVDN/locomotive.png)](https://david-dm.org/MathVDN/locomotive)
 
 
