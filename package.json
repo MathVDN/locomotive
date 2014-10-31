@@ -14,13 +14,17 @@
     "email": "jaredhanson@gmail.com",
     "url": "http://www.jaredhanson.net/"
   },
+  "contributors": {
+    "name": "Mathieu Vandernoot",
+    "email": "developpement.vandernoot@gmail.com"
+  },
   "homepage": "http://locomotivejs.org/",
   "repository": {
     "type": "git",
-    "url": "git://github.com/jaredhanson/locomotive.git"
+    "url": "git://github.com/MathVDN/locomotive.git"
   },
   "bugs": {
-    "url": "http://github.com/jaredhanson/locomotive/issues"
+    "url": "http://github.com/MathVDN/locomotive/issues"
   },
   "licenses": [
     {
@@ -36,7 +40,7 @@
     "pkginfo": "0.3.x",
     "commander": "2.x.x",
     "co-prompt": "1.x.x",
-    "express": "3.x.x",
+    "express": "4.x.x",
     "actionrouter": "0.1.x",
     "bootable": "0.2.x",
     "bootable-environment": "0.2.x",
